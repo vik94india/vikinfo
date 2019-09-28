@@ -1,0 +1,17 @@
+.left-text{
+    color: #fff;
+    font-size: 10PX;
+}
+.right-text{
+    color:#fff;
+    font-size: 8px;
+        /* position: fixed; */
+        background-color: #002147;
+        width: 100px;
+        text-align: center;
+        
+}
+nav{
+    height: 4vh;
+    background-color: #002147 !important;
+}

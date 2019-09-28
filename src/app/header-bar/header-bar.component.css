@@ -1,0 +1,21 @@
+
+
+.navbar { 
+    /* overflow: hidden; */
+    background-color: #002147 !important;  
+    position: sticky;
+    top: 0;
+   width: 100%;
+   z-index: 999;  
+   } 
+  .navbar a {
+    color: #fff;
+  }
+  
+  .logo-content{
+    font-size: 10px;
+  }
+ 
+  .dropdown-menu a:hover{
+background-color: #002147;
+  }
